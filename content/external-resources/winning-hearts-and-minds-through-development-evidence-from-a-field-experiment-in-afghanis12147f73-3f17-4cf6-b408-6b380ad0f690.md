@@ -1,0 +1,11 @@
+---
+content_type: external-resource
+external_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1809677
+has_external_license_warning: true
+license: https://en.wikipedia.org/wiki/All_rights_reserved
+status: ''
+title: 'Winning Hearts and Minds through Development: Evidence from a Field Experiment
+  in Afghanistan'
+uid: 12147f73-3f17-4cf6-b408-6b380ad0f690
+wayback_url: ''
+---
