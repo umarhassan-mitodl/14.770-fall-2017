@@ -4,6 +4,8 @@ description: ''
 file: /courses/14-770-introduction-to-political-economy-fall-2017/b9e910a5a71e9f1ceada35d91041521a_MIT14_770F17_lec4_5_acemoglu.pdf
 file_size: 1306474
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

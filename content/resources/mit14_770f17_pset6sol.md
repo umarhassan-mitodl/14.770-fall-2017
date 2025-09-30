@@ -5,6 +5,8 @@ description: 'This resource contains information regarding introduction to polit
 file: /courses/14-770-introduction-to-political-economy-fall-2017/d380c44051330c998748a327b765a50f_MIT14_770F17_pset6sol.pdf
 file_size: 197339
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: 'This section contains notes used during the course''s recitation sessions. '
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
@@ -43,7 +45,7 @@ Review of the first lecture and concepts; the Gibbard-Satterthwaite theorem
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Review of the second and third lectures; {{% resource_link "3369451e-e28f-40f3-a8bd-d76b61b24d74" "Feddersen and Pesendorfer (ASPR, 1998)" %}}
+Review of the second and third lectures; [Feddersen and Pesendorfer (ASPR, 1998)](http://www.jstor.org/stable/2585926)
 {{< tdclose >}}
 {{< tdopen >}}
 {{% resource_link 6282e81b-3841-25a3-4c80-7651d2065c9f "Recitation 2 Notes (PDF)" %}}
@@ -55,7 +57,7 @@ Review of the second and third lectures; {{% resource_link "3369451e-e28f-40f3-a
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Discussion of "{{% resource_link "a737312d-8ec5-4670-b19b-4e018b267116" "Democracy for Realists: Why Elections Do Not Produce Responsive Government" %}}" by Achen and Bartels.
+Discussion of "[Democracy for Realists: Why Elections Do Not Produce Responsive Government](https://press.princeton.edu/titles/10671.html)" by Achen and Bartels.
 {{< tdclose >}}
 {{< tdopen >}}
 {{% resource_link 6cca298f-4e90-8a7d-57fd-4564eab0ac48 "Recitation 3 Notes (PDF)" %}}
@@ -67,7 +69,7 @@ Discussion of "{{% resource_link "a737312d-8ec5-4670-b19b-4e018b267116" "Democra
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Review of this week's class; another take on {{% resource_link "ca119eac-3889-406f-b0c5-de716bc624ab" "Acemoglu, Golosov, and Tsyvinski (2008 Econometrica)" %}}; theoretical model of {{% resource_link "c7af9553-ead7-44d9-ab50-a32a9164629d" "Ferraz and Finan (2011, AER)" %}}
+Review of this week's class; another take on [Acemoglu, Golosov, and Tsyvinski (2008 Econometrica)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0262.2008.00849.x); theoretical model of [Ferraz and Finan (2011, AER)](https://academic.oup.com/qje/article/123/2/703/1930865)
 {{< tdclose >}}
 {{< tdopen >}}
 {{% resource_link ca5aa82b-672e-6e51-edab-07f4b1284360 "Recitation 4 Notes (PDF)" %}}
@@ -103,7 +105,7 @@ Markov Perfect Equilibrium; discussion of why dynamic games is different from re
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Discussion and review of "{{% resource_link "17670ed8-f355-415d-a4b8-06d2d20fb1f9" "The Inefficient Use of Costly Conflict with Complete Information" %}}" Powell (2004, APSR)
+Discussion and review of "[The Inefficient Use of Costly Conflict with Complete Information](https://www.jstor.org/stable/4145309)" Powell (2004, APSR)
 {{< tdclose >}}
 {{< tdopen >}}
 {{% resource_link 4151fd2f-437a-7976-cda4-e1482290da00 "Recitation 7 Notes (PDF)" %}}
