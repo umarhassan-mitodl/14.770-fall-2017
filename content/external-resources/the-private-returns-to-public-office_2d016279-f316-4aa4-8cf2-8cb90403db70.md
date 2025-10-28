@@ -1,0 +1,10 @@
+---
+content_type: external-resource
+external_url: http://www.jstor.org/stable/10.1086/676334
+has_external_license_warning: true
+license: https://en.wikipedia.org/wiki/All_rights_reserved
+status: ''
+title: The Private Returns to Public Office
+uid: 2d016279-f316-4aa4-8cf2-8cb90403db70
+wayback_url: ''
+---
